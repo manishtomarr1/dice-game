@@ -1,0 +1,43 @@
+body{
+  background-color: #863A6F;
+}
+
+h1{
+  color: #FFADBC;
+}
+h3{
+  color: #FFADBC;
+
+}
+/* =============refresh================ */
+
+.refresh{
+  font-family: "Alfa Slab One";
+  font-size: 3rem;
+  text-align: center;
+}
+
+/* =====================players================== */
+
+.players{
+  text-align: center;
+  margin:auto;
+}
+.dice-img1{
+  width:70%;
+}
+
+.dice-img2{
+  width:70%;
+}
+.player-1{
+  display: inline-block;
+  height: 200px;
+  width:200px;
+}
+.player-2{
+  display: inline-block;
+  height: 200px;
+  width:200px;
+
+}
